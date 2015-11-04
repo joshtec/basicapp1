@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.phonegap.basicphonegap" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Basic App</name>
+<widget id="com.phonegap.basicApp1" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Basic App 1</name>
     <description>
         Simple company info application.
     </description>
-    <author email="janroggisch@gmail.com" href="http://mycompany.com">
+    <author email="someone@email.com" href="http://mycompany.com">
         PhoneGap Team
     </author>
     <content src="index.html" />
